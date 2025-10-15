@@ -20,13 +20,13 @@ A Courier Delivery Service built using the MERN (MongoDB, Express.js, React.js, 
 Clone the project
 
 ```bash
-  git clone https://github.com/Rajat119/Courier-Delivery-Service
+  git clone https://github.com/yuvrajsingh833/Shipzy-Delivery-Service.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd courier-delivery-service
+  cd Shipzy-Delivery Service
 ```
 
 Install dependencies for backend
@@ -60,6 +60,7 @@ Start the server for frontend
 - Place a courier order by providing the required details.
 - Explore the dashboard to view statistics and charts related to your courier orders.
 - Manage your orders from the sidebar, including viewing order history, cancelling orders, and downloading payment receipts.
+- Integrated a payment gateway to allow users to make payments securely for their courier orders.
 
-## Future Additions
-- **Payment Gateway Integration:** In the future, we plan to integrate a payment gateway to allow users to make payments securely for their courier orders.
+
+Made with ❤️ by Yuvraj Singh Rathore
