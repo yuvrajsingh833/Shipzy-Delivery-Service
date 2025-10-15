@@ -1,4 +1,4 @@
-# Courier Delivery Service
+# Shipzy- Courier Devlivery Service
 
 A Courier Delivery Service built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to send courier orders easily, track their order history, and manage their orders. It also provides insightful statistics and charts to help users keep track of their courier activities.
 
